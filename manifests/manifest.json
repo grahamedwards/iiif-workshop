@@ -1,0 +1,123 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sugblacial precipitates from the Barnes Ice Cap margin",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Polished slabs of three subglacial precipitates form the Barnes Ice Cap margin, Baffin Island. All three samples are calcite-cemented sand-silt stones. These images are associated with the work of Edwards and others <a href='https://doi.org/10.1126/sciadv.abp9329'><doi:10.1126/sciadv.abp9329</a>) and the samples were originally collected and described by Refsnider and others (<a href='https://doi.org/10.1130/G32335.1'>doi:10.1130/G32335.1</a>, <a href='https://doi.org/10.1016/j.yqres.2013.10.014'>doi:j.yqres.2013.10.014</a>).",
+    "@language" : "en",
+    "viewingHint" : "individuals"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Graham Harper Edwards",
+  "sequences" : [ {
+    "@id" : "http://781e2b32-29ec-4c33-b2bf-d45a47d307b9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8345cade-3b99-4ef6-889b-55a81687343b",
+      "@type" : "sc:Canvas",
+      "label" : "B183R",
+      "height" : 8912,
+      "width" : 2672,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c7cd923b-3625-41e7-8690-a7af968a2961",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b183r-slab/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b183r-slab",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 8912,
+          "width" : 2672
+        },
+        "on" : "http://8345cade-3b99-4ef6-889b-55a81687343b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://63da316d-644d-4ce7-b1c8-f43108749b7e",
+      "@type" : "sc:Canvas",
+      "label" : "B177R",
+      "height" : 6969,
+      "width" : 2185,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d7d2c814-e2c7-46dd-829a-88103eb8a142",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b177r-slab/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b177r-slab",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6969,
+          "width" : 2185
+        },
+        "on" : "http://63da316d-644d-4ce7-b1c8-f43108749b7e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b",
+      "@type" : "sc:Canvas",
+      "label" : "B176R",
+      "height" : 9840,
+      "width" : 3216,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0a649a9f-535e-4d77-82d2-92b8ba159761",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b176r-slab/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b176r-slab",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 9840,
+          "width" : 3216
+        },
+        "on" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents",
+    "viewingHint" : "top",
+    "ranges" : [ "b183r", "b177r", "b176r" ]
+  }, {
+    "@id" : "b183r",
+    "@type" : "sc:Range",
+    "label" : "B183R",
+    "canvases" : [ "http://8345cade-3b99-4ef6-889b-55a81687343b" ]
+  }, {
+    "@id" : "b177r",
+    "@type" : "sc:Range",
+    "label" : "B177R",
+    "canvases" : [ "http://63da316d-644d-4ce7-b1c8-f43108749b7e" ]
+  }, {
+    "@id" : "b176r",
+    "@type" : "sc:Range",
+    "label" : "B176R",
+    "canvases" : [ "http://644840e4-546d-468f-a4be-3c283b6dfe3b" ]
+  } ]
+}
