@@ -1,0 +1,13 @@
+{
+  "id" : "https://grahamedwards.github.io/iiif-workshop/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in grahamedwards/iiif-workshop project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json",
+    "label" : "Sugblacial precipitates from the Barnes Ice Cap margin"
+  } ]
+}
