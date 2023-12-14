@@ -113,10 +113,18 @@
   "structures" : [ {
     "@id" : "http://example.org/iiif/book1/range/top",
     "@type" : "sc:Range",
+    "label" : "Hidden Table of Contents",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/toc" ]
+  }, 
+  {
+    "@id" : "http://example.org/iiif/book1/range/toc",
+    "@type" : "sc:Range",
     "label" : "Table of Contents",
     "viewingHint" : "top",
     "ranges" : [ "b183r", "b177r", "b176r" ]
-  }, {
+  },
+  {
     "@id" : "b183r",
     "@type" : "sc:Range",
     "label" : "B183R",
