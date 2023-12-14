@@ -3,6 +3,11 @@
   "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Sugblacial precipitates from the Barnes Ice Cap margin",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://dev.gdmrdigital.com/search-api/1245635613/38545334/33a9151330702b3ebf9312e9c5abd8b9/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Polished slabs of three subglacial precipitates form the Barnes Ice Cap margin, Baffin Island. All three samples are calcite-cemented sand-silt stones. These images are associated with the work of Edwards and others (<a href='https://doi.org/10.1126/sciadv.abp9329'>doi:10.1126/sciadv.abp9329</a>) and the samples were originally collected and described by Refsnider and others (<a href='https://doi.org/10.1130/G32335.1'>doi:10.1130/G32335.1</a>, <a href='https://doi.org/10.1016/j.yqres.2013.10.014'>doi:j.yqres.2013.10.014</a>).",
@@ -95,6 +100,13 @@
         },
         "on" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
       } ],
+      "otherContent": [
+        {
+            "@id": "https://grahamedwards.github.io/iiif-workshop/annotations/576536fccc66555ce8d6d215b260c872.json",
+            "@type": "sc:AnnotationList",
+            "label": "Annotations of sample B176R"
+        }
+      ],
       "related" : ""
     } ]
   } ],
