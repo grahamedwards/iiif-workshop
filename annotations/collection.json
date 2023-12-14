@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://grahamedwards.github.io/iiif-workshop/annotations/576536fccc66555ce8d6d215b260c872.json" ],
+  "@id" : "https://grahamedwards.github.io/iiif-workshop/annotations/collection.json",
+  "label" : "All annotations loaded in grahamedwards/iiif-workshop project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
