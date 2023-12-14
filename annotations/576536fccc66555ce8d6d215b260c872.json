@@ -1,0 +1,170 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "layer",
+      "@type" : "oa:Tag",
+      "chars" : "layer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "b176r",
+      "@type" : "oa:Tag",
+      "chars" : "b176r"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Upper layer (a)\nAges range from 24.87&plusmn;0.29 ka at base(a5) to 23.43&plusmn;0.53 ka at top (a1).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Upper layer (a)</p>\n<p>Ages range from 24.87&plusmn;0.29 ka at base(a5) to 23.43&plusmn;0.53 ka at top (a1).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/38545334",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:30:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702557050246",
+    "dcterms:modified" : "2023-12-14T12:30:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=107,408,2902,9204"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1081.21212,407.51515l-755.39394,3041.45455l-218.66667,2464.9697l954.18182,2524.60606l516.84848,1172.84848l576.48485,-39.75758l854.78788,-1272.24242l-19.87879,-1669.81818l-318.06061,-2007.75758l-178.90909,-2504.72727l-457.21212,-1709.57576z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_e11b85f5-d3fd-492f-9d5c-de2cfde069e5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "layer",
+      "@type" : "oa:Tag",
+      "chars" : "layer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "b176r",
+      "@type" : "oa:Tag",
+      "chars" : "b176r"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lower layer (b)\nIsochron age 30.71&plusmn;0.89 ka",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lower layer (b)</p>\n<p>Isochron age 30.71&plusmn;0.89 ka</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/38545334",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:24:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556657073",
+    "dcterms:modified" : "2023-12-14T12:24:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2172,72,1020,6244"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2171.56364,107.34545l250.47273,1484.94545l250.47273,1896.43636l35.78182,1932.21818l304.14545,894.54545l178.90909,-787.2l-17.89091,-1699.63636l-214.69091,-1502.83636l-161.01818,-1198.69091l-250.47273,-1055.56364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_463b301a-983d-4315-8dc0-ba0ea130826b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "b176r",
+      "@type" : "oa:Tag",
+      "chars" : "b176r"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "feature",
+      "@type" : "oa:Tag",
+      "chars" : "feature"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Very coarse detritus in layer a2.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Very coarse detritus in layer a2.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/38545334",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:25:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556716749",
+    "dcterms:modified" : "2023-12-14T12:25:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1203,3022,682,2274"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1203.45455,3021.56364h340.92727v0h340.92727v1137.07273v1137.07273h-340.92727h-340.92727v-1137.07273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_86953f95-a9d7-4e89-b9e9-e990892ab925\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "feature",
+      "@type" : "oa:Tag",
+      "chars" : "feature"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "b176r",
+      "@type" : "oa:Tag",
+      "chars" : "b176r"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Erosional surface of disconformity between a1 and a2. Sample breaks easily along this surface.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Erosional surface of disconformity between a1 and a2. Sample breaks easily along this surface.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/38545334",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:26:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556804918",
+    "dcterms:modified" : "2023-12-14T12:26:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamedwards.github.io/iiif-workshop/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2520,3350,278,2255"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2519.72346,3350.47676h138.80747v0h138.80747v1127.4263v1127.4263h-138.80747h-138.80747v-1127.4263z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_debc2d9c-ecda-4276-8786-d0b6ffdcb7c4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://644840e4-546d-468f-a4be-3c283b6dfe3b"
+    } ]
+  } ],
+  "@id" : "https://grahamedwards.github.io/iiif-workshop/annotations/576536fccc66555ce8d6d215b260c872.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
